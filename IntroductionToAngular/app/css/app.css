@@ -1,0 +1,20 @@
+#wrapper{
+    background-color: lightblue;
+}
+
+img{
+    width: 200px;
+}
+
+#textData{
+    width: 300px;
+}
+
+#textData, img{
+    display: inline-block;
+}
+
+.spanClass span{
+    font-weight: bold;
+}
+
